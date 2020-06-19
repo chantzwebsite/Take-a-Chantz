@@ -1,17 +1,6 @@
 ## Welcome to Takeachantz.com
 
-As you can see. We are currently under consturction. :( 
-
-Please stay tuned for a whole new look with MVP(minimum viable product)features to provide only the important. No Bloat.
-
-```markdown
-Syntax highlighted code block 
-
-# Header 1
-## Header 2
-### Header 3
-
-
+Currently under consturction... :( Stay tuned for new minimum viable product!!!
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chantzwebsite/Take-a-Chantz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
