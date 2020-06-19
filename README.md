@@ -2,10 +2,10 @@
 
 As you can see. We are currently under consturction. :( 
 
-Please stay tuned for a whole new look with MVP features to provide only the important. No Bloat.
+Please stay tuned for a whole new look with MVP(minimum viable product)features to provide only the important. No Bloat.
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block 
 
 # Header 1
 ## Header 2
