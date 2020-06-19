@@ -3,7 +3,8 @@
 As you can see. We are currently under consturction. :( 
 
 ### Markdown
-(Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for)
+###(Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for)
+
 Please stay tuned for a whole new look with MVP features to provide only the important. No Bloat.
 
 ```markdown
